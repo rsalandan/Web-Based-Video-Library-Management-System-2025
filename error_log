@@ -1,0 +1,120 @@
+[19-Apr-2025 18:17:23 UTC] PHP Warning:  require_once(/home/rahibinf/ruqu.rahib.info/../ruqu.rahib.info/bootstrap/app.php): Failed to open stream: No such file or directory in /home/rahibinf/ruqu.rahib.info/index.php on line 47
+[19-Apr-2025 18:17:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rahibinf/ruqu.rahib.info/../ruqu.rahib.info/bootstrap/app.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rahibinf/ruqu.rahib.info/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/rahibinf/ruqu.rahib.info/index.php on line 47
+[19-Apr-2025 18:17:25 UTC] PHP Warning:  require_once(/home/rahibinf/ruqu.rahib.info/../ruqu.rahib.info/bootstrap/app.php): Failed to open stream: No such file or directory in /home/rahibinf/ruqu.rahib.info/index.php on line 47
+[19-Apr-2025 18:17:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rahibinf/ruqu.rahib.info/../ruqu.rahib.info/bootstrap/app.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rahibinf/ruqu.rahib.info/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/rahibinf/ruqu.rahib.info/index.php on line 47
+[19-Apr-2025 18:17:26 UTC] PHP Warning:  require_once(/home/rahibinf/ruqu.rahib.info/../ruqu.rahib.info/bootstrap/app.php): Failed to open stream: No such file or directory in /home/rahibinf/ruqu.rahib.info/index.php on line 47
+[19-Apr-2025 18:17:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rahibinf/ruqu.rahib.info/../ruqu.rahib.info/bootstrap/app.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rahibinf/ruqu.rahib.info/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/rahibinf/ruqu.rahib.info/index.php on line 47
+[19-Apr-2025 18:17:26 UTC] PHP Warning:  require_once(/home/rahibinf/ruqu.rahib.info/../ruqu.rahib.info/bootstrap/app.php): Failed to open stream: No such file or directory in /home/rahibinf/ruqu.rahib.info/index.php on line 47
+[19-Apr-2025 18:17:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rahibinf/ruqu.rahib.info/../ruqu.rahib.info/bootstrap/app.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rahibinf/ruqu.rahib.info/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/rahibinf/ruqu.rahib.info/index.php on line 47
+[19-Apr-2025 18:54:39 UTC] PHP Warning:  require(/home/rahibinf/requ.rahib.info/../ruqu.rahib.info/vendor/autoload.php): Failed to open stream: No such file or directory in /home/rahibinf/requ.rahib.info/index.php on line 34
+[19-Apr-2025 18:54:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rahibinf/requ.rahib.info/../ruqu.rahib.info/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rahibinf/requ.rahib.info/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/rahibinf/requ.rahib.info/index.php on line 34
+[19-Apr-2025 18:55:14 UTC] PHP Warning:  require(/home/rahibinf/requ.rahib.info/../ruqu.rahib.info/vendor/autoload.php): Failed to open stream: No such file or directory in /home/rahibinf/requ.rahib.info/index.php on line 34
+[19-Apr-2025 18:55:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rahibinf/requ.rahib.info/../ruqu.rahib.info/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rahibinf/requ.rahib.info/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/rahibinf/requ.rahib.info/index.php on line 34
+[19-Apr-2025 18:55:15 UTC] PHP Warning:  require(/home/rahibinf/requ.rahib.info/../ruqu.rahib.info/vendor/autoload.php): Failed to open stream: No such file or directory in /home/rahibinf/requ.rahib.info/index.php on line 34
+[19-Apr-2025 18:55:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rahibinf/requ.rahib.info/../ruqu.rahib.info/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rahibinf/requ.rahib.info/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/rahibinf/requ.rahib.info/index.php on line 34
+[19-Apr-2025 18:55:16 UTC] PHP Warning:  require(/home/rahibinf/requ.rahib.info/../ruqu.rahib.info/vendor/autoload.php): Failed to open stream: No such file or directory in /home/rahibinf/requ.rahib.info/index.php on line 34
+[19-Apr-2025 18:55:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rahibinf/requ.rahib.info/../ruqu.rahib.info/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rahibinf/requ.rahib.info/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/rahibinf/requ.rahib.info/index.php on line 34
+[19-Apr-2025 18:55:19 UTC] PHP Warning:  require(/home/rahibinf/requ.rahib.info/../ruqu.rahib.info/vendor/autoload.php): Failed to open stream: No such file or directory in /home/rahibinf/requ.rahib.info/index.php on line 34
+[19-Apr-2025 18:55:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rahibinf/requ.rahib.info/../ruqu.rahib.info/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rahibinf/requ.rahib.info/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/rahibinf/requ.rahib.info/index.php on line 34
+[19-Apr-2025 18:55:21 UTC] PHP Warning:  require(/home/rahibinf/requ.rahib.info/../ruqu.rahib.info/vendor/autoload.php): Failed to open stream: No such file or directory in /home/rahibinf/requ.rahib.info/index.php on line 34
+[19-Apr-2025 18:55:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rahibinf/requ.rahib.info/../ruqu.rahib.info/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rahibinf/requ.rahib.info/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/rahibinf/requ.rahib.info/index.php on line 34
+[19-Apr-2025 19:07:47 UTC] PHP Warning:  require(/home/rahibinf/requ.rahib.info/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/rahibinf/requ.rahib.info/index.php on line 34
+[19-Apr-2025 19:07:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rahibinf/requ.rahib.info/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rahibinf/requ.rahib.info/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/rahibinf/requ.rahib.info/index.php on line 34
+[19-Apr-2025 19:07:49 UTC] PHP Warning:  require(/home/rahibinf/requ.rahib.info/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/rahibinf/requ.rahib.info/index.php on line 34
+[19-Apr-2025 19:07:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rahibinf/requ.rahib.info/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rahibinf/requ.rahib.info/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/rahibinf/requ.rahib.info/index.php on line 34
+[19-Apr-2025 19:07:58 UTC] PHP Warning:  require(/home/rahibinf/requ.rahib.info/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/rahibinf/requ.rahib.info/index.php on line 34
+[19-Apr-2025 19:07:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rahibinf/requ.rahib.info/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rahibinf/requ.rahib.info/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/rahibinf/requ.rahib.info/index.php on line 34
+[19-Apr-2025 19:07:58 UTC] PHP Warning:  require(/home/rahibinf/requ.rahib.info/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/rahibinf/requ.rahib.info/index.php on line 34
+[19-Apr-2025 19:07:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rahibinf/requ.rahib.info/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rahibinf/requ.rahib.info/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/rahibinf/requ.rahib.info/index.php on line 34
+[19-Apr-2025 19:07:58 UTC] PHP Warning:  require(/home/rahibinf/requ.rahib.info/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/rahibinf/requ.rahib.info/index.php on line 34
+[19-Apr-2025 19:07:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rahibinf/requ.rahib.info/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rahibinf/requ.rahib.info/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/rahibinf/requ.rahib.info/index.php on line 34
+[19-Apr-2025 19:07:58 UTC] PHP Warning:  require(/home/rahibinf/requ.rahib.info/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/rahibinf/requ.rahib.info/index.php on line 34
+[19-Apr-2025 19:07:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rahibinf/requ.rahib.info/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rahibinf/requ.rahib.info/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/rahibinf/requ.rahib.info/index.php on line 34
+[19-Apr-2025 19:08:32 UTC] PHP Warning:  require(/home/rahibinf/requ.rahib.info/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/rahibinf/requ.rahib.info/index.php on line 34
+[19-Apr-2025 19:08:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rahibinf/requ.rahib.info/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rahibinf/requ.rahib.info/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/rahibinf/requ.rahib.info/index.php on line 34
+[19-Apr-2025 19:08:35 UTC] PHP Warning:  require(/home/rahibinf/requ.rahib.info/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/rahibinf/requ.rahib.info/index.php on line 34
+[19-Apr-2025 19:08:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rahibinf/requ.rahib.info/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rahibinf/requ.rahib.info/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/rahibinf/requ.rahib.info/index.php on line 34
+[19-Apr-2025 19:08:51 UTC] PHP Warning:  require(/home/rahibinf/requ.rahib.info/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/rahibinf/requ.rahib.info/index.php on line 34
+[19-Apr-2025 19:08:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rahibinf/requ.rahib.info/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rahibinf/requ.rahib.info/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/rahibinf/requ.rahib.info/index.php on line 34
+[19-Apr-2025 19:08:53 UTC] PHP Warning:  require(/home/rahibinf/requ.rahib.info/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/rahibinf/requ.rahib.info/index.php on line 34
+[19-Apr-2025 19:08:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rahibinf/requ.rahib.info/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rahibinf/requ.rahib.info/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/rahibinf/requ.rahib.info/index.php on line 34
+[19-Apr-2025 19:08:58 UTC] PHP Warning:  require(/home/rahibinf/requ.rahib.info/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/rahibinf/requ.rahib.info/index.php on line 34
+[19-Apr-2025 19:08:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rahibinf/requ.rahib.info/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rahibinf/requ.rahib.info/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/rahibinf/requ.rahib.info/index.php on line 34
+[19-Apr-2025 19:09:05 UTC] PHP Warning:  require(/home/rahibinf/requ.rahib.info/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/rahibinf/requ.rahib.info/index.php on line 34
+[19-Apr-2025 19:09:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rahibinf/requ.rahib.info/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rahibinf/requ.rahib.info/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/rahibinf/requ.rahib.info/index.php on line 34
+[19-Apr-2025 19:09:07 UTC] PHP Warning:  require(/home/rahibinf/requ.rahib.info/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/rahibinf/requ.rahib.info/index.php on line 34
+[19-Apr-2025 19:09:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rahibinf/requ.rahib.info/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rahibinf/requ.rahib.info/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/rahibinf/requ.rahib.info/index.php on line 34
+[19-Apr-2025 19:09:16 UTC] PHP Warning:  require(/home/rahibinf/requ.rahib.info/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/rahibinf/requ.rahib.info/index.php on line 34
+[19-Apr-2025 19:09:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rahibinf/requ.rahib.info/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rahibinf/requ.rahib.info/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/rahibinf/requ.rahib.info/index.php on line 34

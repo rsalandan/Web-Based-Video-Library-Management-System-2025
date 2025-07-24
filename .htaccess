@@ -1,0 +1,27 @@
+<IfModule mod_rewrite.c>
+    # Enable Rewrite Engine
+    RewriteEngine On
+
+    # Handle Authorization Header (used by Laravel for API authentication)
+    RewriteCond %{HTTP:Authorization} . 
+    RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+
+    # Disable MultiViews and Directory Listing
+    <IfModule mod_negotiation.c>
+        Options -MultiViews -Indexes
+    </IfModule>
+
+    # Redirect Trailing Slashes if the URL is not a folder
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_URI} (.+)/$
+    RewriteRule ^ %1 [L,R=301]
+
+    # Ensure public assets are available by redirecting any requests that don't already point to the public folder
+    RewriteCond %{REQUEST_URI} !^/public/
+    RewriteRule ^(.*)$ /public/$1 [L]
+
+    # Route all other requests to index.php (Laravel's Front Controller)
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^ index.php [L]
+</IfModule>
