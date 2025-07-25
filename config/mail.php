@@ -36,11 +36,11 @@ return [
     'mailers' => [
         'smtp' => [
             'transport' => 'smtp',
-            'host' => env('MAIL_HOST', 'travel.rahib.info'),
+            'host' => env('MAIL_HOST', ''),
             'port' => env('MAIL_PORT', 587),
             'encryption' => env('MAIL_ENCRYPTION', 'tls'),
-            'username' => env('MAIL_USERNAME', 'rahib@travel.rahib.info'),
-            'password' => env('MAIL_PASSWORD', 'Rashcolins04_1984'),
+            'username' => env('MAIL_USERNAME', ''),
+            'password' => env('MAIL_PASSWORD', ''),
             'timeout' => null,
         ],
         // Other mailers, like 'ses', 'postmark', etc., should be defined here
